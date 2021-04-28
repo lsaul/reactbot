@@ -1,0 +1,31 @@
+#botList{
+    display: inline-block;
+    max-width: 50%;
+}
+
+
+#botList .botCard{
+    background: white;
+    border: 2px solid #eee;
+    border-radius: 5px;
+    display: inline-block;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    margin: 20px;
+    /* max-width: 400px; */
+    padding: 20px;
+    width: 260px;
+
+}
+
+#botList .botCard .botimg{ 
+    height: 150px;
+}
+
+/* #botList .botCard .botimg:hover{
+    zoom: 110%;
+} */
+
+#botList .botCard p{
+    margin: 0 0 5px 0;
+    padding: 0;
+}

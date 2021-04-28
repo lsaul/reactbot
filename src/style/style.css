@@ -1,0 +1,45 @@
+ 
+
+/* APP container */
+body{
+    margin: 0;
+}
+
+.App{
+    background: #fff;
+   
+    padding: 20px;
+ 
+}
+
+/* Header */
+.App-header{
+    display: inline-block;
+    min-width: 400px;
+    width: 50%;
+    /* float: left; */
+}
+
+.App-Header.screenShow{
+    display: inline-block;
+}
+
+.App-Header.screenHide{
+    display: none;
+}
+
+/* Main Screen Logo */
+#bb-logo{
+    background: url('../img/bb-screen.jpg'); 
+    background-repeat: no-repeat;
+    height: 60vmin; 
+    background-size: cover;
+    background-position: center top;
+    -webkit-box-shadow: 0px 0px 15px 5px #92C2FF; 
+    box-shadow: 0px 0px 15px 5px #92C2FF;
+}
+
+
+
+
+

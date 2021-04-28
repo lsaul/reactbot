@@ -1,0 +1,28 @@
+[{
+    "bot":"Uppercut",
+    "img": "/img/bot1.jpg",
+    "type": "Wedge",
+    "weight": "Heavyweight",
+    "weapons":[ "Wedge", "Spinning Bar"]
+},
+{
+    "bot":"Tantrum",
+    "img": "/img/bot2.jpg",
+    "type": "Flipper",
+    "weight": "Heavyweight",
+    "weapons":[ "Wedge", "Flipping Arm"]
+},
+{
+    "bot":"Skorpios",
+    "img": "/img/bot3.jpg",
+    "type": "Hybrid",
+    "weight": "Heavyweight",
+    "weapons":[ "Wedge", "Concrete Saw"]
+},
+{
+    "bot":"Bloodsport",
+    "img": "/img/bot4.jpg",
+    "type": "Spinner",
+    "weight": "Heavyweight",
+    "weapons":[ "Spinning Blade", "Long Bar"]
+}]

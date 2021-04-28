@@ -1,0 +1,35 @@
+#createContainer{
+    width: 60%;
+    display: inline-block;
+}
+
+#createContainer img{
+    width: 360px;
+    margin-left: 20px;
+}
+
+#createForm{
+    display: inline-block;
+    width: 30%;
+}
+ 
+#createForm label{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333;
+    display: block;
+    margin: 15px 0 5px 0;
+    
+    text-transform: uppercase;
+}
+
+#createForm input{
+    color: #888;
+    display: block;
+    border: 2px solid #eee;
+    border-radius: 2px;
+    margin-top: 5px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
